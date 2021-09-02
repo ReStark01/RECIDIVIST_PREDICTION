@@ -1,0 +1,701 @@
+Suject_ID,IPS,Sexual_Violence,MIEA,DRP,Attitude,Social_Influence,Sexual_Preference,Paraphilia,Child_Emotion,Impulsiveness,Outlaw,Addict
+C1704,Medium,Yes,No,No,Yes,Positive,Adult,Yes,No,Yes,Yes,No
+C1925,Medium,Yes,Yes,Yes,Yes,Positive,Adult,No,Yes,Yes,Yes,Yes
+C1028,Low,Yes,No,No,Yes,Negative,Adult,No,Yes,Yes,No,Yes
+C1103,Medium,Yes,Yes,Yes,No,Positive,Young Puberty,Yes,No,Yes,No,No
+C1589,Medium,No,Yes,No,Yes,Positive,Young Puberty,No,No,Yes,No,Yes
+C1304,Medium,Yes,Yes,Yes,Yes,Negative,Adult,No,No,Yes,Yes,No
+C1111,High,Yes,No,No,Yes,Positive,Adult,No,No,Yes,No,No
+C1251,High,No,No,No,Yes,Negative,Adult,No,Yes,Yes,Yes,Yes
+C1653,High,Yes,No,Yes,No,Positive,Young Puberty,Yes,No,No,No,Yes
+C1663,Medium,No,Yes,No,No,Positive,Adult,Yes,No,Yes,Yes,Yes
+C1853,High,Yes,No,No,No,Positive,Adult,Yes,No,No,Yes,Yes
+C1341,Medium,Yes,No,No,No,Positive,Young Puberty,Yes,No,No,No,No
+C1102,High,No,Yes,Yes,No,Negative,Adult,No,Yes,Yes,Yes,Yes
+C1939,Low,No,Yes,No,No,Positive,Adult,Yes,Yes,No,Yes,Yes
+C1228,High,Yes,Yes,No,No,Positive,Adult,Yes,Yes,Yes,Yes,Yes
+C1151,Low,Yes,No,Yes,Yes,Negative,Adult,No,Yes,No,No,Yes
+C1742,High,No,No,Yes,Yes,Negative,Adult,Yes,No,Yes,Yes,No
+C1890,Low,Yes,No,Yes,Yes,Positive,Young Puberty,Yes,Yes,Yes,No,No
+C1219,Low,No,No,Yes,No,Negative,Young Puberty,Yes,Yes,No,Yes,No
+C1958,Low,Yes,No,No,No,Positive,Young Puberty,Yes,Yes,Yes,No,No
+C1242,Medium,Yes,Yes,No,Yes,Negative,Young Puberty,No,No,No,No,No
+C1856,High,No,Yes,Yes,No,Positive,Young Puberty,No,No,Yes,Yes,Yes
+C1227,High,No,Yes,Yes,Yes,Negative,Young Puberty,No,No,No,Yes,Yes
+C1194,Low,No,No,Yes,No,Positive,Young Puberty,No,Yes,No,Yes,No
+C1633,High,Yes,Yes,No,Yes,Negative,Young Puberty,Yes,No,No,No,Yes
+C1765,Low,Yes,No,No,Yes,Positive,Young Puberty,Yes,No,No,Yes,Yes
+C1386,High,No,No,Yes,No,Positive,Young Puberty,No,No,No,Yes,No
+C1495,Medium,No,Yes,Yes,Yes,Positive,Young Puberty,No,Yes,No,No,Yes
+C1977,High,No,No,No,No,Negative,Young Puberty,Yes,Yes,Yes,No,Yes
+C1902,Medium,Yes,Yes,No,No,Negative,Adult,Yes,Yes,Yes,Yes,No
+C1679,High,Yes,Yes,Yes,No,Negative,Adult,No,Yes,Yes,No,No
+C1720,Low,Yes,Yes,Yes,Yes,Positive,Adult,Yes,No,No,Yes,No
+C1384,High,Yes,Yes,Yes,No,Negative,Adult,No,Yes,Yes,No,No
+C1085,Low,Yes,No,Yes,No,Positive,Adult,No,Yes,Yes,No,No
+C1667,High,No,Yes,Yes,No,Negative,Young Puberty,Yes,Yes,No,No,Yes
+C1532,High,No,Yes,Yes,No,Positive,Young Puberty,No,Yes,Yes,Yes,Yes
+C1026,Low,No,No,Yes,No,Positive,Adult,Yes,Yes,Yes,Yes,Yes
+C1333,High,Yes,Yes,No,Yes,Positive,Young Puberty,Yes,No,Yes,Yes,No
+C1891,High,No,No,No,Yes,Positive,Young Puberty,No,Yes,No,Yes,Yes
+C1079,Low,No,Yes,No,Yes,Negative,Adult,No,Yes,Yes,Yes,Yes
+C1517,Medium,Yes,No,Yes,No,Negative,Adult,No,Yes,Yes,No,Yes
+C1039,High,Yes,No,Yes,Yes,Negative,Young Puberty,Yes,No,No,Yes,Yes
+C1698,High,No,No,No,Yes,Negative,Adult,No,Yes,Yes,Yes,Yes
+C1749,Medium,No,Yes,Yes,No,Negative,Adult,Yes,No,No,No,No
+C1487,High,Yes,No,Yes,No,Negative,Adult,Yes,Yes,Yes,No,No
+C1930,High,No,Yes,No,No,Positive,Adult,Yes,Yes,Yes,Yes,Yes
+C1707,High,Yes,Yes,Yes,Yes,Negative,Young Puberty,No,No,Yes,Yes,Yes
+C1361,Low,No,Yes,Yes,Yes,Negative,Adult,Yes,No,No,No,No
+C1300,Medium,No,Yes,No,Yes,Negative,Young Puberty,No,Yes,Yes,No,No
+C1493,High,Yes,No,Yes,No,Negative,Adult,Yes,Yes,No,Yes,No
+C1798,High,Yes,No,No,Yes,Positive,Adult,No,No,No,Yes,No
+C1995,Medium,No,No,Yes,Yes,Positive,Young Puberty,No,Yes,No,No,No
+C1342,High,No,Yes,Yes,Yes,Negative,Young Puberty,No,No,Yes,Yes,No
+C1376,High,Yes,No,No,No,Positive,Adult,No,Yes,No,No,Yes
+C1550,High,Yes,No,Yes,Yes,Positive,Young Puberty,No,Yes,Yes,No,Yes
+C1915,Medium,No,No,Yes,Yes,Negative,Young Puberty,No,No,Yes,Yes,Yes
+C1779,High,No,Yes,Yes,No,Negative,Adult,Yes,No,Yes,Yes,Yes
+C1078,Low,No,No,No,No,Negative,Adult,No,No,Yes,Yes,Yes
+C1855,Medium,Yes,Yes,Yes,No,Positive,Young Puberty,No,No,Yes,No,Yes
+C1299,High,No,No,No,No,Positive,Young Puberty,No,No,No,Yes,Yes
+C1066,Low,No,Yes,No,Yes,Negative,Adult,No,Yes,Yes,No,Yes
+C1347,Low,Yes,No,Yes,Yes,Negative,Young Puberty,No,No,No,Yes,Yes
+C1355,High,Yes,Yes,Yes,No,Positive,Adult,Yes,No,Yes,No,Yes
+C1006,High,No,No,Yes,Yes,Negative,Adult,No,Yes,No,No,No
+C1206,Medium,Yes,Yes,Yes,No,Negative,Adult,Yes,No,Yes,No,Yes
+C1120,Low,Yes,Yes,Yes,Yes,Negative,Young Puberty,Yes,Yes,Yes,No,No
+C1283,Low,No,No,No,No,Negative,Adult,No,Yes,Yes,No,No
+C1065,Medium,Yes,Yes,No,No,Negative,Adult,Yes,No,Yes,No,No
+C1426,Medium,Yes,Yes,Yes,No,Positive,Adult,No,Yes,Yes,No,Yes
+C1388,Low,Yes,No,No,Yes,Negative,Young Puberty,Yes,Yes,Yes,Yes,No
+C1764,Medium,No,No,Yes,Yes,Positive,Adult,Yes,No,No,No,Yes
+C1512,High,No,Yes,No,Yes,Positive,Young Puberty,No,No,Yes,No,Yes
+C1070,Low,Yes,No,Yes,No,Negative,Adult,Yes,No,No,Yes,No
+C1183,Low,Yes,Yes,No,No,Negative,Adult,No,Yes,Yes,No,No
+C1437,Low,Yes,Yes,Yes,Yes,Negative,Adult,Yes,Yes,No,No,No
+C1874,Medium,Yes,Yes,Yes,Yes,Negative,Young Puberty,No,Yes,No,No,Yes
+C1334,High,Yes,No,Yes,Yes,Positive,Adult,Yes,Yes,No,No,No
+C1922,Medium,Yes,No,Yes,Yes,Positive,Adult,Yes,No,No,Yes,Yes
+C1321,Low,Yes,Yes,No,No,Negative,Adult,No,No,No,Yes,No
+C1317,High,No,No,Yes,No,Negative,Young Puberty,Yes,No,No,No,No
+C1064,Medium,No,No,No,Yes,Negative,Young Puberty,Yes,No,No,Yes,No
+C1804,Medium,Yes,No,No,Yes,Positive,Adult,No,Yes,Yes,No,Yes
+C1867,Medium,No,No,Yes,Yes,Positive,Young Puberty,Yes,No,No,Yes,No
+C1638,High,Yes,No,No,Yes,Negative,Adult,No,No,No,Yes,No
+C1057,Medium,No,No,Yes,Yes,Negative,Adult,Yes,No,No,No,No
+C1564,High,No,No,No,Yes,Positive,Young Puberty,Yes,Yes,Yes,No,No
+C1588,High,No,Yes,No,No,Negative,Adult,No,No,Yes,No,Yes
+C1670,Medium,Yes,Yes,No,No,Negative,Adult,Yes,No,No,Yes,Yes
+C1813,High,No,Yes,No,Yes,Negative,Adult,No,Yes,Yes,No,No
+C1892,Medium,Yes,No,Yes,No,Positive,Adult,No,No,Yes,Yes,Yes
+C1246,High,No,No,Yes,Yes,Negative,Adult,No,Yes,No,Yes,Yes
+C1802,Medium,No,Yes,No,No,Negative,Young Puberty,Yes,Yes,Yes,No,Yes
+C1345,Medium,No,No,Yes,No,Negative,Young Puberty,No,No,No,Yes,Yes
+C1444,High,No,Yes,Yes,No,Positive,Adult,No,No,No,No,Yes
+C1864,Low,Yes,No,Yes,Yes,Positive,Adult,Yes,No,No,No,No
+C1128,High,Yes,No,Yes,Yes,Positive,Adult,No,No,Yes,No,No
+C1848,Medium,No,Yes,No,No,Positive,Young Puberty,Yes,No,Yes,Yes,Yes
+C1731,High,No,No,No,No,Negative,Young Puberty,Yes,Yes,Yes,Yes,No
+C1479,High,Yes,Yes,Yes,Yes,Negative,Adult,Yes,No,No,No,Yes
+C1081,Medium,No,No,Yes,No,Positive,Adult,Yes,No,No,Yes,Yes
+C1166,High,No,No,Yes,No,Negative,Adult,No,Yes,No,Yes,Yes
+C1621,High,No,No,Yes,No,Positive,Young Puberty,No,Yes,No,No,No
+C1799,Low,No,No,No,No,Positive,Young Puberty,Yes,Yes,Yes,Yes,Yes
+C1048,High,Yes,Yes,Yes,Yes,Positive,Adult,No,No,Yes,No,No
+C1050,High,No,Yes,Yes,Yes,Negative,Adult,No,No,No,Yes,Yes
+C1767,High,Yes,No,No,Yes,Negative,Adult,Yes,No,Yes,No,No
+C1584,Low,Yes,Yes,Yes,Yes,Positive,Adult,No,No,Yes,Yes,Yes
+C1803,Low,Yes,No,Yes,Yes,Negative,Young Puberty,No,Yes,No,Yes,Yes
+C1696,Medium,Yes,Yes,Yes,No,Positive,Young Puberty,Yes,Yes,Yes,No,Yes
+C1563,High,Yes,Yes,Yes,No,Positive,Adult,No,Yes,Yes,Yes,No
+C1673,High,No,Yes,No,Yes,Positive,Adult,Yes,Yes,No,No,Yes
+C1746,Medium,Yes,Yes,No,No,Positive,Young Puberty,No,No,Yes,Yes,Yes
+C1756,Medium,No,No,Yes,No,Negative,Adult,Yes,Yes,Yes,Yes,No
+C1187,Low,No,No,No,No,Negative,Young Puberty,Yes,Yes,No,Yes,No
+C1063,Medium,Yes,No,Yes,Yes,Negative,Young Puberty,No,Yes,Yes,Yes,Yes
+C1138,Low,Yes,Yes,No,Yes,Positive,Young Puberty,Yes,No,Yes,Yes,No
+C1003,High,Yes,Yes,Yes,No,Positive,Adult,Yes,Yes,Yes,No,Yes
+C1962,Medium,No,No,No,Yes,Positive,Adult,No,No,Yes,No,Yes
+C1456,Medium,No,No,Yes,Yes,Negative,Adult,No,No,Yes,No,No
+C1629,Medium,Yes,Yes,No,No,Positive,Young Puberty,Yes,No,No,Yes,No
+C1353,High,Yes,Yes,Yes,Yes,Positive,Young Puberty,Yes,No,Yes,No,No
+C1548,Low,Yes,No,Yes,No,Negative,Adult,No,Yes,No,Yes,Yes
+C1904,Low,Yes,No,No,Yes,Positive,Adult,Yes,Yes,Yes,No,Yes
+C1029,Medium,Yes,Yes,No,No,Positive,Young Puberty,No,No,No,No,Yes
+C1554,High,No,Yes,No,Yes,Negative,Young Puberty,Yes,No,No,No,No
+C1014,Low,No,No,Yes,No,Positive,Young Puberty,Yes,Yes,Yes,No,No
+C1933,High,No,Yes,No,Yes,Negative,Adult,No,Yes,Yes,Yes,Yes
+C1658,Low,Yes,No,Yes,Yes,Negative,Adult,Yes,Yes,Yes,Yes,No
+C1937,High,Yes,No,No,No,Negative,Adult,Yes,Yes,No,No,Yes
+C1511,Low,No,No,No,No,Positive,Young Puberty,Yes,Yes,No,No,No
+C1660,Medium,No,Yes,No,No,Positive,Young Puberty,Yes,No,Yes,Yes,No
+C1883,Medium,No,Yes,No,No,Positive,Young Puberty,Yes,No,Yes,Yes,Yes
+C1221,High,Yes,No,Yes,No,Positive,Young Puberty,Yes,No,No,No,Yes
+C1196,Medium,No,No,No,No,Negative,Adult,Yes,Yes,No,No,No
+C1377,Low,Yes,No,No,Yes,Positive,Young Puberty,No,Yes,No,Yes,Yes
+C1603,Medium,No,Yes,No,No,Negative,Adult,Yes,Yes,Yes,No,No
+C1669,High,Yes,Yes,No,Yes,Negative,Young Puberty,No,No,Yes,No,No
+C1889,High,Yes,Yes,Yes,No,Positive,Young Puberty,No,No,Yes,No,No
+C1474,Low,No,No,Yes,No,Negative,Adult,No,Yes,Yes,No,Yes
+C1903,High,Yes,No,Yes,No,Positive,Adult,No,No,No,Yes,No
+C1393,High,No,Yes,No,No,Positive,Young Puberty,No,Yes,Yes,Yes,No
+C1037,Low,Yes,No,No,No,Negative,Adult,No,No,No,Yes,Yes
+C1157,High,Yes,No,Yes,Yes,Positive,Young Puberty,No,Yes,No,Yes,Yes
+C1098,Low,Yes,No,Yes,No,Negative,Adult,No,No,Yes,Yes,No
+C1163,High,Yes,No,Yes,Yes,Positive,Young Puberty,No,Yes,Yes,Yes,Yes
+C1041,High,Yes,No,No,Yes,Positive,Young Puberty,No,Yes,Yes,No,No
+C1709,Medium,Yes,No,Yes,Yes,Negative,Young Puberty,No,No,Yes,Yes,No
+C1027,Low,No,No,Yes,Yes,Negative,Adult,No,No,No,No,No
+C1944,High,Yes,No,No,No,Negative,Young Puberty,No,Yes,Yes,No,No
+C1776,High,Yes,Yes,Yes,No,Negative,Young Puberty,No,Yes,No,No,No
+C1580,Medium,No,Yes,Yes,No,Positive,Young Puberty,No,Yes,Yes,Yes,No
+C1820,Low,Yes,Yes,No,No,Negative,Young Puberty,Yes,Yes,No,No,Yes
+C1789,Medium,Yes,Yes,Yes,No,Positive,Adult,No,No,Yes,Yes,Yes
+C1788,Medium,No,Yes,Yes,Yes,Negative,Adult,No,Yes,No,Yes,Yes
+C1060,High,Yes,Yes,Yes,Yes,Negative,Adult,Yes,No,Yes,Yes,Yes
+C1136,High,Yes,No,Yes,No,Negative,Young Puberty,Yes,Yes,Yes,No,Yes
+C1809,High,Yes,Yes,No,Yes,Negative,Adult,No,No,No,No,Yes
+C1083,High,No,No,Yes,No,Positive,Adult,Yes,No,Yes,Yes,No
+C1077,Low,No,Yes,Yes,Yes,Positive,Adult,No,No,Yes,Yes,Yes
+C1203,Low,No,No,Yes,Yes,Negative,Young Puberty,Yes,Yes,No,No,No
+C1468,Low,Yes,Yes,No,Yes,Negative,Adult,No,No,Yes,No,No
+C1760,Medium,No,No,No,Yes,Positive,Young Puberty,No,Yes,Yes,Yes,Yes
+C1498,Medium,No,Yes,No,Yes,Positive,Young Puberty,Yes,No,No,Yes,No
+C1485,Low,No,Yes,No,No,Negative,Young Puberty,No,No,Yes,Yes,Yes
+C1751,Low,No,No,Yes,Yes,Positive,Adult,No,No,No,No,No
+C1947,High,Yes,No,No,Yes,Positive,Adult,Yes,No,No,No,No
+C1276,Medium,Yes,No,Yes,No,Negative,Adult,No,No,Yes,No,Yes
+C1263,Medium,No,No,Yes,No,Negative,Young Puberty,Yes,No,No,Yes,Yes
+C1617,Medium,Yes,Yes,Yes,Yes,Positive,Adult,No,No,No,No,No
+C1582,Medium,No,Yes,No,Yes,Negative,Young Puberty,Yes,Yes,Yes,Yes,Yes
+C1247,High,No,Yes,No,No,Positive,Adult,No,Yes,Yes,No,Yes
+C1022,High,No,Yes,No,No,Positive,Adult,Yes,Yes,Yes,No,No
+C1734,Medium,Yes,No,Yes,Yes,Positive,Adult,No,Yes,Yes,No,Yes
+C1191,Low,No,No,No,Yes,Negative,Adult,No,Yes,Yes,Yes,Yes
+C1801,High,No,Yes,No,No,Positive,Young Puberty,No,No,Yes,No,Yes
+C1822,Medium,Yes,Yes,No,No,Negative,Adult,Yes,No,No,Yes,No
+C1365,High,Yes,No,No,No,Negative,Adult,No,No,Yes,No,No
+C1878,Medium,No,Yes,Yes,Yes,Positive,Adult,Yes,Yes,Yes,No,Yes
+C1576,Low,Yes,Yes,Yes,Yes,Negative,Young Puberty,No,Yes,No,No,Yes
+C1630,High,No,Yes,No,Yes,Negative,Young Puberty,No,Yes,Yes,No,Yes
+C1609,Medium,No,Yes,Yes,No,Positive,Adult,No,Yes,No,No,No
+C1558,Low,Yes,No,No,No,Positive,Adult,Yes,Yes,Yes,Yes,Yes
+C1335,Medium,Yes,Yes,No,Yes,Positive,Adult,Yes,No,Yes,No,Yes
+C1140,High,No,No,Yes,Yes,Negative,Young Puberty,Yes,Yes,Yes,No,Yes
+C1301,High,Yes,Yes,Yes,Yes,Negative,Adult,Yes,No,Yes,Yes,Yes
+C1492,Medium,Yes,Yes,Yes,No,Positive,Young Puberty,No,No,No,Yes,No
+C1508,Low,No,Yes,Yes,Yes,Positive,Young Puberty,Yes,Yes,No,No,No
+C1089,Low,No,Yes,No,Yes,Positive,Young Puberty,Yes,Yes,No,No,Yes
+C1344,High,Yes,Yes,Yes,No,Negative,Adult,No,No,Yes,Yes,No
+C1001,High,No,Yes,No,No,Negative,Young Puberty,Yes,No,Yes,Yes,Yes
+C1253,High,No,Yes,Yes,No,Positive,Young Puberty,No,No,No,No,No
+C1646,Medium,Yes,Yes,Yes,Yes,Positive,Young Puberty,No,Yes,No,No,Yes
+C1402,High,Yes,No,Yes,Yes,Negative,Young Puberty,Yes,Yes,Yes,Yes,Yes
+C1326,Medium,Yes,Yes,Yes,Yes,Negative,Young Puberty,No,No,No,Yes,Yes
+C1403,Medium,Yes,No,Yes,Yes,Positive,Adult,Yes,No,No,No,No
+C1852,High,Yes,Yes,Yes,Yes,Negative,Adult,Yes,Yes,Yes,Yes,No
+C1733,Medium,Yes,Yes,Yes,No,Positive,Young Puberty,No,No,Yes,No,No
+C1478,High,Yes,Yes,No,No,Negative,Adult,No,No,No,No,No
+C1931,Low,No,No,No,Yes,Positive,Adult,Yes,No,Yes,No,Yes
+C1579,Medium,Yes,No,No,No,Positive,Adult,Yes,No,Yes,No,Yes
+C1202,Low,No,Yes,No,No,Negative,Adult,No,No,Yes,No,No
+C1135,High,No,No,Yes,Yes,Positive,Young Puberty,Yes,No,Yes,No,No
+C1677,Low,No,Yes,Yes,Yes,Negative,Adult,Yes,No,Yes,No,Yes
+C1117,Medium,No,Yes,No,No,Positive,Adult,No,Yes,No,Yes,No
+C1455,High,Yes,No,Yes,Yes,Positive,Young Puberty,Yes,Yes,No,No,No
+C1391,Low,No,Yes,Yes,Yes,Positive,Adult,No,Yes,No,Yes,Yes
+C1610,High,No,No,No,Yes,Positive,Young Puberty,No,Yes,Yes,No,Yes
+C1307,High,No,No,No,Yes,Negative,Adult,Yes,Yes,No,No,Yes
+C1838,Medium,Yes,Yes,Yes,Yes,Negative,Adult,Yes,No,No,Yes,No
+C1934,Low,Yes,Yes,No,Yes,Positive,Young Puberty,No,No,No,No,Yes
+C1899,High,Yes,No,Yes,No,Positive,Young Puberty,No,No,No,Yes,No
+C1017,Medium,No,No,No,No,Positive,Adult,No,Yes,No,No,Yes
+C1719,Low,No,No,No,No,Negative,Adult,Yes,No,Yes,Yes,No
+C1598,Low,No,No,No,Yes,Positive,Young Puberty,No,No,Yes,Yes,No
+C1274,Medium,No,No,Yes,No,Negative,Adult,Yes,Yes,Yes,No,Yes
+C1980,Medium,Yes,No,Yes,Yes,Negative,Adult,Yes,No,No,Yes,Yes
+C1839,High,Yes,Yes,No,Yes,Positive,Young Puberty,Yes,No,No,No,Yes
+C1994,Medium,Yes,Yes,Yes,No,Negative,Adult,Yes,No,Yes,Yes,Yes
+C1772,High,No,No,Yes,No,Positive,Young Puberty,Yes,Yes,No,Yes,No
+C1156,Medium,Yes,No,Yes,No,Negative,Young Puberty,No,No,Yes,No,No
+C1762,Low,No,Yes,No,Yes,Negative,Adult,Yes,Yes,Yes,Yes,Yes
+C1743,High,Yes,Yes,No,Yes,Positive,Young Puberty,Yes,Yes,No,Yes,Yes
+C1905,High,Yes,No,No,Yes,Positive,Adult,No,Yes,Yes,Yes,Yes
+C1175,High,No,Yes,Yes,No,Negative,Adult,No,No,No,Yes,No
+C1424,Low,Yes,Yes,Yes,Yes,Positive,Young Puberty,Yes,Yes,Yes,Yes,No
+C1176,Medium,Yes,No,Yes,No,Positive,Adult,No,Yes,Yes,No,No
+C1525,Medium,No,No,Yes,Yes,Positive,Adult,No,Yes,Yes,No,No
+C1842,High,Yes,No,No,No,Positive,Young Puberty,No,No,No,Yes,Yes
+C1215,Medium,Yes,No,Yes,No,Positive,Adult,No,Yes,No,Yes,Yes
+C1113,Low,Yes,No,No,No,Positive,Adult,No,No,Yes,No,Yes
+C1097,Low,No,No,Yes,Yes,Positive,Young Puberty,Yes,Yes,No,No,No
+C1894,High,Yes,No,No,No,Positive,Young Puberty,Yes,No,Yes,No,Yes
+C1458,Medium,No,No,No,Yes,Negative,Adult,No,No,Yes,Yes,No
+C1534,Medium,Yes,Yes,Yes,No,Positive,Young Puberty,No,No,No,Yes,Yes
+C1258,High,No,No,Yes,No,Negative,Adult,Yes,No,Yes,No,Yes
+C1985,High,No,Yes,No,No,Positive,Young Puberty,Yes,No,No,Yes,No
+C1351,High,No,No,Yes,No,Negative,Young Puberty,Yes,No,No,Yes,Yes
+C1960,Low,Yes,Yes,No,Yes,Positive,Adult,Yes,Yes,No,Yes,Yes
+C1730,Medium,Yes,Yes,Yes,Yes,Positive,Adult,Yes,Yes,Yes,Yes,No
+C1619,Medium,Yes,No,Yes,Yes,Positive,Young Puberty,Yes,No,Yes,Yes,Yes
+C1337,Low,No,No,No,No,Negative,Young Puberty,No,No,No,Yes,No
+C1325,High,Yes,No,Yes,No,Positive,Young Puberty,No,No,No,No,Yes
+C1457,Low,No,Yes,Yes,Yes,Positive,Young Puberty,Yes,Yes,Yes,Yes,Yes
+C1383,Low,No,Yes,No,No,Positive,Adult,No,Yes,Yes,Yes,Yes
+C1552,Low,No,Yes,Yes,Yes,Positive,Adult,Yes,Yes,No,No,Yes
+C1827,Low,Yes,Yes,No,No,Positive,Young Puberty,Yes,No,Yes,No,Yes
+C1668,Medium,No,Yes,No,Yes,Negative,Young Puberty,No,Yes,Yes,No,Yes
+C1195,Low,Yes,No,No,No,Positive,Adult,Yes,No,No,Yes,No
+C1523,Medium,No,No,Yes,Yes,Positive,Young Puberty,Yes,Yes,Yes,No,Yes
+C1565,Low,Yes,Yes,Yes,No,Positive,Young Puberty,Yes,No,No,No,No
+C1369,Medium,No,No,No,Yes,Negative,Adult,Yes,Yes,No,No,Yes
+C1109,Low,No,Yes,Yes,Yes,Positive,Adult,No,Yes,Yes,Yes,No
+C1130,Medium,No,No,Yes,Yes,Positive,Young Puberty,Yes,Yes,No,No,No
+C1303,Medium,No,Yes,No,Yes,Negative,Adult,Yes,No,Yes,No,No
+C1968,Low,Yes,No,No,Yes,Positive,Adult,No,Yes,Yes,Yes,No
+C1385,Medium,Yes,No,Yes,No,Positive,Adult,No,No,Yes,Yes,No
+C1566,Low,Yes,Yes,Yes,No,Positive,Young Puberty,Yes,No,No,No,No
+C1607,Medium,No,Yes,Yes,No,Negative,Young Puberty,Yes,No,Yes,Yes,Yes
+C1357,Low,Yes,Yes,Yes,No,Positive,Adult,Yes,Yes,No,No,No
+C1281,High,Yes,Yes,No,No,Positive,Young Puberty,Yes,Yes,No,No,Yes
+C1971,Medium,No,No,Yes,No,Negative,Young Puberty,Yes,Yes,Yes,No,No
+C1780,High,No,Yes,Yes,Yes,Positive,Young Puberty,Yes,Yes,Yes,Yes,Yes
+C1515,Low,No,Yes,Yes,Yes,Positive,Young Puberty,No,Yes,Yes,Yes,Yes
+C1961,Low,No,Yes,Yes,No,Negative,Adult,Yes,Yes,No,No,No
+C1267,Low,Yes,No,No,Yes,Negative,Adult,No,Yes,No,No,No
+C1284,Low,No,Yes,No,Yes,Positive,Young Puberty,Yes,No,Yes,Yes,Yes
+C1466,Medium,No,Yes,Yes,No,Negative,Young Puberty,No,Yes,Yes,No,Yes
+C1264,Medium,Yes,No,Yes,Yes,Negative,Adult,No,No,Yes,No,Yes
+C1121,Medium,Yes,No,No,No,Positive,Adult,No,Yes,No,Yes,Yes
+C1459,High,Yes,Yes,No,Yes,Positive,Adult,No,Yes,No,Yes,Yes
+C1250,Low,Yes,Yes,Yes,No,Negative,Young Puberty,No,No,Yes,No,No
+C1831,Low,Yes,No,Yes,Yes,Positive,Adult,Yes,No,No,No,No
+C1964,Low,Yes,Yes,Yes,No,Negative,Young Puberty,No,No,Yes,No,Yes
+C1815,Medium,Yes,No,Yes,No,Negative,Young Puberty,Yes,Yes,No,Yes,No
+C1406,Medium,Yes,No,No,Yes,Positive,Young Puberty,Yes,Yes,No,Yes,No
+C1519,High,No,No,No,No,Positive,Young Puberty,Yes,No,Yes,Yes,Yes
+C1587,High,No,No,Yes,No,Negative,Adult,No,No,No,Yes,No
+C1290,High,No,Yes,Yes,No,Positive,Young Puberty,Yes,Yes,No,No,No
+C1265,Low,Yes,No,No,Yes,Negative,Young Puberty,No,Yes,No,Yes,Yes
+C1648,Low,No,No,Yes,No,Negative,Young Puberty,Yes,No,No,No,Yes
+C1979,High,Yes,No,Yes,Yes,Positive,Adult,Yes,No,No,Yes,Yes
+C1410,Low,No,No,Yes,No,Positive,Adult,No,No,Yes,Yes,Yes
+C1574,High,Yes,Yes,Yes,Yes,Positive,Adult,Yes,Yes,No,Yes,Yes
+C1835,High,No,Yes,No,No,Positive,Adult,No,No,No,No,Yes
+C1537,High,No,No,No,No,Positive,Adult,No,Yes,No,Yes,Yes
+C1366,High,No,Yes,No,No,Positive,Young Puberty,No,No,No,Yes,Yes
+C1748,Medium,No,Yes,No,Yes,Negative,Young Puberty,Yes,No,No,No,No
+C1763,Medium,No,No,No,No,Negative,Adult,Yes,Yes,Yes,Yes,No
+C1689,Low,No,No,No,No,Negative,Adult,Yes,No,Yes,Yes,No
+C1775,Medium,No,Yes,No,No,Negative,Young Puberty,No,Yes,No,No,No
+C1073,High,Yes,No,Yes,Yes,Positive,Young Puberty,No,Yes,No,No,No
+C1224,Low,No,No,Yes,No,Negative,Adult,No,No,Yes,No,Yes
+C1967,Low,No,Yes,Yes,Yes,Positive,Young Puberty,No,Yes,Yes,Yes,Yes
+C1298,High,Yes,Yes,No,Yes,Negative,Young Puberty,Yes,No,Yes,No,No
+C1061,Low,Yes,Yes,No,Yes,Positive,Adult,Yes,No,Yes,Yes,Yes
+C1924,High,Yes,Yes,Yes,Yes,Negative,Adult,No,Yes,Yes,No,Yes
+C1992,Low,Yes,No,Yes,No,Negative,Adult,Yes,No,Yes,Yes,No
+C1796,Medium,Yes,Yes,No,No,Negative,Adult,No,No,Yes,No,Yes
+C1535,Medium,No,Yes,Yes,Yes,Negative,Adult,No,Yes,Yes,Yes,No
+C1727,High,Yes,Yes,Yes,Yes,Negative,Adult,No,Yes,No,Yes,No
+C1841,High,Yes,Yes,No,No,Negative,Young Puberty,Yes,Yes,Yes,Yes,Yes
+C1005,Medium,Yes,Yes,Yes,Yes,Positive,Young Puberty,Yes,No,Yes,Yes,No
+C1877,Medium,Yes,Yes,No,No,Positive,Young Puberty,No,Yes,No,No,Yes
+C1725,High,No,No,Yes,No,Negative,Young Puberty,Yes,Yes,No,No,No
+C1062,Low,Yes,No,No,No,Positive,Adult,No,Yes,No,No,No
+C1632,High,Yes,No,No,No,Positive,Adult,Yes,Yes,No,No,Yes
+C1350,Medium,No,No,No,No,Positive,Young Puberty,Yes,No,No,No,Yes
+C1311,High,Yes,No,No,Yes,Negative,Adult,Yes,Yes,No,Yes,No
+C1198,High,Yes,No,Yes,No,Negative,Young Puberty,No,No,No,No,No
+C1260,High,Yes,No,Yes,No,Positive,Young Puberty,No,Yes,No,Yes,Yes
+C1499,Medium,Yes,No,No,No,Positive,Young Puberty,Yes,No,Yes,No,Yes
+C1844,Low,No,No,No,No,Positive,Young Puberty,Yes,Yes,No,Yes,No
+C1929,High,Yes,Yes,Yes,Yes,Positive,Adult,Yes,Yes,Yes,Yes,Yes
+C1520,Low,Yes,Yes,No,Yes,Positive,Adult,Yes,Yes,Yes,Yes,No
+C1650,Medium,No,No,Yes,Yes,Positive,Adult,Yes,Yes,No,No,Yes
+C1622,Medium,No,No,Yes,No,Positive,Adult,No,No,Yes,No,No
+C1745,Medium,No,No,Yes,Yes,Negative,Young Puberty,Yes,No,Yes,No,Yes
+C1213,Low,No,No,No,No,Positive,Young Puberty,Yes,No,No,No,No
+C1288,Medium,Yes,Yes,No,Yes,Negative,Adult,No,Yes,No,Yes,No
+C1252,High,No,No,No,Yes,Negative,Adult,No,No,Yes,No,Yes
+C1791,Low,No,Yes,Yes,No,Positive,Adult,Yes,No,Yes,No,No
+C1036,Medium,Yes,No,No,No,Negative,Young Puberty,Yes,Yes,No,No,No
+C1092,Medium,No,Yes,No,Yes,Negative,Adult,No,Yes,Yes,No,Yes
+C1046,Medium,No,Yes,No,No,Negative,Young Puberty,No,Yes,No,No,Yes
+C1893,Low,No,No,No,No,Negative,Young Puberty,No,Yes,No,No,Yes
+C1076,Medium,No,No,Yes,Yes,Positive,Young Puberty,No,No,Yes,No,No
+C1555,Low,No,Yes,Yes,Yes,Positive,Adult,Yes,Yes,No,Yes,Yes
+C1810,High,Yes,No,Yes,Yes,Negative,Adult,Yes,Yes,Yes,No,Yes
+C1786,Medium,Yes,Yes,Yes,Yes,Positive,Adult,No,No,Yes,No,No
+C1637,Medium,Yes,Yes,No,No,Negative,Young Puberty,No,No,Yes,No,Yes
+C1600,High,No,Yes,No,No,Negative,Adult,Yes,Yes,Yes,No,Yes
+C1143,Low,No,No,Yes,Yes,Positive,Young Puberty,Yes,No,Yes,No,No
+C1453,High,No,No,No,No,Negative,Young Puberty,No,Yes,No,Yes,Yes
+C1217,Medium,Yes,No,No,Yes,Negative,Young Puberty,Yes,Yes,No,Yes,No
+C1701,High,No,No,No,Yes,Negative,Adult,Yes,No,No,No,No
+C1777,Low,No,Yes,No,Yes,Negative,Adult,No,Yes,Yes,Yes,Yes
+C1421,High,No,Yes,No,No,Negative,Young Puberty,No,No,No,Yes,Yes
+C1209,High,Yes,Yes,No,No,Negative,Young Puberty,No,No,Yes,Yes,Yes
+C1526,High,Yes,No,Yes,Yes,Positive,Young Puberty,No,No,No,No,No
+C1674,Medium,Yes,No,Yes,No,Positive,Young Puberty,No,Yes,No,Yes,No
+C1800,Low,No,Yes,No,No,Negative,Adult,Yes,No,Yes,No,Yes
+C1996,Low,Yes,Yes,Yes,No,Negative,Adult,No,No,Yes,No,Yes
+C1700,Low,Yes,No,No,No,Negative,Young Puberty,No,Yes,No,Yes,Yes
+C1428,Low,Yes,No,No,No,Positive,Adult,No,Yes,Yes,Yes,Yes
+C1015,Medium,No,No,Yes,No,Positive,Young Puberty,No,No,Yes,No,No
+C1119,Low,No,No,No,Yes,Positive,Young Puberty,Yes,No,No,Yes,Yes
+C1091,Low,Yes,Yes,Yes,No,Positive,Young Puberty,Yes,No,No,Yes,Yes
+C1805,High,No,No,Yes,Yes,Negative,Young Puberty,Yes,No,Yes,No,No
+C1404,Low,No,No,No,No,Negative,Adult,No,No,No,Yes,Yes
+C1955,High,Yes,Yes,Yes,Yes,Positive,Young Puberty,Yes,No,No,Yes,Yes
+C1149,High,Yes,No,Yes,Yes,Positive,Young Puberty,No,Yes,No,No,Yes
+C1978,Low,Yes,No,No,Yes,Positive,Adult,Yes,No,Yes,No,Yes
+C1665,Low,No,Yes,No,Yes,Negative,Young Puberty,Yes,No,Yes,Yes,No
+C1573,High,No,No,No,No,Negative,Young Puberty,No,No,Yes,No,No
+C1107,Medium,Yes,Yes,No,Yes,Positive,Adult,No,No,No,No,No
+C1451,Medium,Yes,No,Yes,No,Positive,Young Puberty,Yes,No,Yes,No,Yes
+C1909,Low,No,Yes,Yes,No,Negative,Adult,No,Yes,Yes,No,Yes
+C1897,Low,Yes,Yes,No,No,Positive,Adult,No,Yes,Yes,No,No
+C1233,Medium,No,Yes,No,Yes,Negative,Young Puberty,Yes,No,No,Yes,Yes
+C1514,Medium,No,No,Yes,Yes,Positive,Adult,Yes,No,No,Yes,Yes
+C1606,Medium,No,Yes,No,No,Negative,Adult,No,Yes,No,No,Yes
+C1708,High,Yes,No,Yes,No,Negative,Adult,No,No,No,No,Yes
+C1509,High,No,Yes,Yes,No,Negative,Adult,Yes,No,No,Yes,Yes
+C1963,High,Yes,Yes,Yes,No,Positive,Adult,No,Yes,Yes,Yes,Yes
+C1025,Low,No,No,No,No,Negative,Young Puberty,No,Yes,Yes,No,No
+C1770,Low,No,No,No,Yes,Negative,Young Puberty,No,Yes,No,No,Yes
+C1647,Medium,Yes,No,Yes,Yes,Negative,Adult,No,Yes,Yes,Yes,No
+C1972,High,Yes,No,Yes,Yes,Positive,Adult,Yes,No,Yes,No,Yes
+C1259,Low,No,Yes,No,Yes,Negative,Adult,No,No,Yes,No,Yes
+C1594,Medium,No,Yes,Yes,Yes,Positive,Young Puberty,No,Yes,No,No,No
+C1882,Medium,No,No,Yes,Yes,Negative,Young Puberty,No,No,No,Yes,No
+C1615,Medium,No,Yes,Yes,Yes,Positive,Young Puberty,Yes,Yes,Yes,Yes,Yes
+C1699,High,No,No,Yes,No,Negative,Adult,No,Yes,No,Yes,No
+C1324,Medium,Yes,Yes,No,Yes,Positive,Young Puberty,No,Yes,No,No,Yes
+C1419,High,Yes,Yes,Yes,Yes,Positive,Adult,No,Yes,No,No,No
+C1599,High,Yes,No,No,Yes,Negative,Adult,No,Yes,Yes,No,Yes
+C1418,Low,Yes,No,No,Yes,Positive,Adult,No,No,Yes,No,No
+C1016,Low,No,Yes,No,No,Positive,Young Puberty,No,No,Yes,No,Yes
+C1447,High,Yes,No,No,Yes,Positive,Adult,No,Yes,No,No,Yes
+C1694,High,Yes,Yes,No,No,Negative,Young Puberty,Yes,No,No,No,No
+C1732,Low,No,Yes,Yes,Yes,Negative,Adult,No,No,Yes,No,Yes
+C1657,High,Yes,Yes,No,Yes,Positive,Adult,Yes,Yes,Yes,Yes,No
+C1911,Medium,Yes,Yes,No,Yes,Negative,Young Puberty,No,No,No,No,Yes
+C1866,Low,Yes,Yes,Yes,No,Positive,Adult,No,No,No,No,No
+C1104,Medium,Yes,Yes,Yes,Yes,Negative,Adult,No,Yes,Yes,No,Yes
+C1687,High,Yes,Yes,Yes,Yes,Positive,Adult,No,No,Yes,Yes,Yes
+C1390,Low,Yes,Yes,Yes,No,Positive,Young Puberty,Yes,Yes,Yes,No,Yes
+C1901,High,No,No,Yes,No,Positive,Young Puberty,No,No,No,Yes,Yes
+C1873,Medium,No,No,No,Yes,Negative,Young Puberty,Yes,No,Yes,No,No
+C1313,Medium,No,Yes,No,Yes,Negative,Young Puberty,No,Yes,Yes,Yes,No
+C1951,High,Yes,No,No,No,Negative,Adult,No,No,No,Yes,No
+C1223,High,No,Yes,Yes,No,Negative,Young Puberty,Yes,No,Yes,Yes,No
+C1981,Low,No,No,No,No,Negative,Adult,Yes,No,Yes,No,Yes
+C1178,High,Yes,No,No,No,Positive,Adult,Yes,Yes,No,Yes,Yes
+C1411,High,Yes,Yes,No,No,Positive,Adult,No,Yes,No,No,No
+C1861,High,Yes,Yes,No,Yes,Negative,Adult,Yes,Yes,No,Yes,Yes
+C1625,Medium,Yes,Yes,No,Yes,Positive,Young Puberty,Yes,Yes,No,No,Yes
+C1521,Low,Yes,No,No,Yes,Negative,Adult,No,No,No,No,No
+C1152,Low,Yes,No,Yes,No,Positive,Adult,Yes,Yes,Yes,No,No
+C1476,Medium,No,Yes,No,Yes,Positive,Young Puberty,No,No,Yes,Yes,Yes
+C1289,Low,Yes,No,Yes,Yes,Positive,Adult,Yes,No,Yes,Yes,Yes
+C1394,Medium,No,No,No,No,Positive,Young Puberty,Yes,Yes,Yes,Yes,Yes
+C1505,Medium,No,No,Yes,Yes,Positive,Young Puberty,No,Yes,No,Yes,No
+C1058,Low,No,Yes,Yes,No,Positive,Young Puberty,No,No,Yes,Yes,No
+C1586,Low,Yes,Yes,No,Yes,Negative,Adult,Yes,No,Yes,Yes,Yes
+C1239,Low,Yes,No,No,No,Positive,Young Puberty,Yes,Yes,No,Yes,Yes
+C1812,High,No,No,No,No,Positive,Young Puberty,No,No,No,Yes,No
+C1020,Medium,Yes,Yes,No,No,Positive,Young Puberty,Yes,No,Yes,Yes,No
+C1093,High,Yes,No,No,Yes,Negative,Young Puberty,No,No,Yes,Yes,No
+C1613,High,No,No,Yes,No,Positive,Adult,Yes,Yes,No,No,Yes
+C1500,Medium,Yes,Yes,No,Yes,Negative,Adult,No,Yes,Yes,Yes,Yes
+C1052,Medium,Yes,No,Yes,Yes,Negative,Young Puberty,No,No,No,No,Yes
+C1306,Medium,Yes,Yes,Yes,No,Negative,Young Puberty,No,Yes,No,No,Yes
+C1293,Low,Yes,No,No,Yes,Positive,Adult,Yes,No,Yes,Yes,Yes
+C1612,High,Yes,Yes,Yes,No,Positive,Adult,No,No,No,No,Yes
+C1886,Low,No,Yes,Yes,No,Positive,Adult,No,No,No,No,Yes
+C1680,High,No,Yes,Yes,Yes,Negative,Adult,Yes,Yes,No,Yes,Yes
+C1522,Low,No,Yes,Yes,No,Negative,Adult,No,Yes,Yes,No,No
+C1530,High,No,Yes,No,Yes,Negative,Young Puberty,Yes,No,No,Yes,No
+C1907,Medium,Yes,Yes,No,Yes,Negative,Adult,Yes,Yes,Yes,No,No
+C1188,Medium,Yes,Yes,Yes,Yes,Positive,Adult,Yes,No,Yes,No,No
+C1819,Low,No,Yes,No,Yes,Negative,Young Puberty,No,No,Yes,Yes,No
+C1125,Medium,Yes,No,Yes,No,Negative,Young Puberty,No,Yes,No,Yes,No
+C1488,High,Yes,No,Yes,Yes,Negative,Young Puberty,No,Yes,No,No,Yes
+C1664,Low,Yes,No,Yes,No,Negative,Young Puberty,No,No,No,Yes,Yes
+C1717,High,Yes,Yes,Yes,No,Negative,Young Puberty,No,Yes,No,No,Yes
+C1278,Low,Yes,No,Yes,No,Positive,Adult,Yes,No,Yes,No,Yes
+C1792,Low,Yes,Yes,No,Yes,Positive,Adult,Yes,No,Yes,No,No
+C1002,High,Yes,No,No,Yes,Negative,Adult,Yes,Yes,Yes,No,Yes
+C1965,Medium,No,Yes,Yes,No,Positive,Adult,No,No,No,No,No
+C1569,Low,Yes,Yes,No,Yes,Positive,Adult,No,No,Yes,Yes,No
+C1781,High,No,No,Yes,No,Negative,Young Puberty,Yes,Yes,No,No,Yes
+C1230,Low,No,No,No,Yes,Negative,Young Puberty,No,No,Yes,No,No
+C1486,Medium,No,Yes,Yes,No,Positive,Adult,Yes,Yes,No,No,No
+C1516,Medium,Yes,No,Yes,No,Negative,Young Puberty,Yes,Yes,No,No,No
+C1655,Medium,Yes,Yes,No,No,Negative,Adult,No,No,No,Yes,No
+C1147,High,Yes,Yes,No,No,Negative,Adult,No,Yes,Yes,Yes,Yes
+C1614,High,Yes,No,Yes,No,Negative,Young Puberty,Yes,No,No,Yes,Yes
+C1323,High,Yes,Yes,Yes,No,Negative,Adult,Yes,No,No,No,Yes
+C1846,Low,No,Yes,Yes,Yes,Negative,Young Puberty,No,Yes,Yes,No,No
+C1575,Low,Yes,Yes,No,No,Negative,Adult,No,Yes,Yes,Yes,Yes
+C1477,Low,Yes,No,Yes,Yes,Negative,Adult,No,Yes,Yes,No,No
+C1349,High,Yes,No,Yes,Yes,Positive,Adult,No,No,No,No,No
+C1818,Low,Yes,No,No,Yes,Positive,Young Puberty,Yes,Yes,No,Yes,Yes
+C1860,High,No,Yes,Yes,Yes,Positive,Young Puberty,No,No,No,Yes,No
+C1354,High,No,No,No,No,Negative,Adult,No,No,No,No,Yes
+C1088,Low,Yes,Yes,Yes,No,Negative,Young Puberty,Yes,Yes,Yes,Yes,No
+C1859,Low,No,No,Yes,Yes,Negative,Adult,No,Yes,No,No,No
+C1950,Medium,No,No,Yes,No,Positive,Adult,No,No,Yes,No,No
+C1309,Medium,No,Yes,Yes,Yes,Positive,Young Puberty,No,No,No,No,Yes
+C1374,Low,Yes,Yes,Yes,No,Positive,Young Puberty,Yes,Yes,No,Yes,No
+C1824,High,No,Yes,Yes,No,Negative,Young Puberty,No,Yes,No,No,Yes
+C1331,Low,Yes,Yes,Yes,No,Positive,Young Puberty,Yes,Yes,Yes,Yes,Yes
+C1984,Medium,Yes,Yes,No,No,Negative,Young Puberty,No,No,No,No,Yes
+C1480,Medium,No,Yes,No,Yes,Positive,Young Puberty,No,Yes,No,Yes,Yes
+C1912,Low,Yes,Yes,No,No,Negative,Adult,No,No,Yes,Yes,Yes
+C1296,High,No,No,Yes,Yes,Negative,Adult,Yes,No,No,No,Yes
+C1513,Low,Yes,Yes,Yes,Yes,Positive,Young Puberty,Yes,Yes,Yes,No,No
+C1991,Medium,No,No,No,Yes,Negative,Adult,Yes,No,No,Yes,Yes
+C1953,Medium,Yes,Yes,No,Yes,Negative,Young Puberty,Yes,No,No,Yes,Yes
+C1146,Low,Yes,No,No,Yes,Positive,Young Puberty,Yes,Yes,No,No,No
+C1489,High,Yes,Yes,Yes,Yes,Positive,Young Puberty,Yes,No,No,Yes,Yes
+C1254,Low,Yes,Yes,Yes,No,Positive,Young Puberty,Yes,Yes,Yes,Yes,No
+C1823,High,Yes,Yes,No,Yes,Positive,Adult,Yes,No,Yes,No,No
+C1987,High,Yes,No,No,No,Positive,Adult,No,No,No,No,Yes
+C1850,High,Yes,Yes,No,No,Negative,Adult,Yes,Yes,Yes,No,Yes
+C1636,Medium,Yes,No,Yes,No,Positive,Young Puberty,No,No,Yes,Yes,No
+C1840,Low,Yes,No,Yes,Yes,Positive,Young Puberty,No,No,Yes,No,No
+C1378,Low,Yes,No,No,Yes,Positive,Young Puberty,Yes,No,Yes,Yes,No
+C1124,Medium,Yes,No,Yes,No,Negative,Young Puberty,Yes,Yes,Yes,No,Yes
+C1210,Low,Yes,Yes,Yes,No,Positive,Adult,No,Yes,Yes,No,Yes
+C1938,Medium,Yes,No,Yes,No,Negative,Young Puberty,No,No,No,Yes,No
+C1475,Medium,Yes,No,No,Yes,Positive,Young Puberty,No,No,No,No,No
+C1446,Medium,Yes,Yes,Yes,Yes,Positive,Adult,Yes,No,Yes,Yes,No
+C1359,High,Yes,Yes,Yes,Yes,Negative,Adult,Yes,No,No,No,No
+C1084,Medium,No,Yes,Yes,Yes,Negative,Adult,Yes,Yes,No,Yes,No
+C1970,High,Yes,No,Yes,Yes,Positive,Young Puberty,No,Yes,Yes,Yes,Yes
+C1816,High,Yes,No,Yes,Yes,Negative,Adult,Yes,No,Yes,Yes,Yes
+C1527,High,Yes,No,Yes,No,Negative,Adult,Yes,Yes,Yes,Yes,Yes
+C1470,High,Yes,No,No,Yes,Positive,Young Puberty,Yes,No,No,No,Yes
+C1133,High,Yes,Yes,Yes,Yes,Negative,Young Puberty,Yes,No,No,No,No
+C1973,High,Yes,Yes,No,No,Negative,Adult,Yes,No,No,No,No
+C1336,High,Yes,Yes,Yes,Yes,Positive,Young Puberty,Yes,Yes,Yes,Yes,Yes
+C1551,Medium,No,Yes,No,No,Negative,Young Puberty,Yes,No,No,Yes,Yes
+C1240,Medium,Yes,Yes,Yes,No,Positive,Adult,Yes,No,No,Yes,No
+C1019,Low,Yes,Yes,Yes,No,Negative,Young Puberty,Yes,No,No,Yes,Yes
+C1982,Low,No,No,No,No,Negative,Adult,No,Yes,No,Yes,Yes
+C1094,Medium,Yes,Yes,No,No,Negative,Young Puberty,Yes,Yes,No,Yes,No
+C1750,High,Yes,No,No,Yes,Positive,Young Puberty,Yes,Yes,Yes,Yes,No
+C1556,Medium,No,Yes,No,No,Negative,Adult,No,Yes,No,No,No
+C1948,Low,Yes,Yes,No,No,Positive,Adult,Yes,No,Yes,No,Yes
+C1068,High,No,No,No,Yes,Positive,Adult,No,Yes,Yes,No,No
+C1371,High,Yes,No,No,No,Negative,Young Puberty,Yes,No,No,Yes,No
+C1797,Low,No,Yes,Yes,Yes,Positive,Young Puberty,No,Yes,No,Yes,Yes
+C1270,Medium,No,Yes,No,No,Negative,Young Puberty,Yes,Yes,Yes,No,No
+C1814,Medium,No,No,Yes,No,Positive,Young Puberty,No,Yes,Yes,No,No
+C1843,Low,No,No,Yes,Yes,Negative,Young Puberty,No,Yes,Yes,No,No
+C1180,Low,Yes,Yes,No,No,Positive,Adult,Yes,No,Yes,No,Yes
+C1536,Medium,No,Yes,No,No,Positive,Young Puberty,Yes,Yes,No,No,No
+C1197,High,No,Yes,Yes,No,Positive,Adult,No,Yes,Yes,Yes,No
+C1627,Medium,Yes,Yes,Yes,Yes,Negative,Adult,Yes,Yes,No,Yes,No
+C1830,Low,No,Yes,Yes,Yes,Positive,Adult,No,No,No,Yes,No
+C1024,High,Yes,No,Yes,Yes,Positive,Young Puberty,No,Yes,No,Yes,No
+C1969,Medium,No,No,Yes,No,Negative,Adult,No,Yes,No,No,Yes
+C1643,Medium,No,Yes,No,No,Positive,Adult,Yes,Yes,Yes,Yes,No
+C1684,Medium,No,No,No,Yes,Positive,Young Puberty,Yes,Yes,Yes,No,No
+C1990,Low,No,Yes,Yes,No,Negative,Young Puberty,Yes,No,No,No,No
+C1778,Low,Yes,No,No,No,Positive,Young Puberty,No,Yes,Yes,Yes,Yes
+C1501,Medium,Yes,No,No,No,Negative,Young Puberty,No,Yes,No,No,No
+C1794,High,No,No,No,No,Negative,Young Puberty,Yes,No,Yes,No,No
+C1988,High,No,No,No,No,Positive,Young Puberty,Yes,Yes,No,Yes,Yes
+C1502,Medium,No,No,Yes,No,Positive,Adult,No,No,Yes,No,Yes
+C1714,High,Yes,No,Yes,Yes,Negative,Young Puberty,Yes,No,No,Yes,No
+C1795,Medium,Yes,No,Yes,No,Negative,Young Puberty,Yes,No,Yes,No,Yes
+C1261,High,No,No,No,Yes,Negative,Adult,Yes,No,No,Yes,No
+C1362,High,No,No,Yes,Yes,Negative,Adult,No,Yes,Yes,No,No
+C1436,Low,No,No,Yes,No,Positive,Young Puberty,No,Yes,Yes,Yes,Yes
+C1631,Medium,Yes,No,No,No,Positive,Adult,Yes,Yes,Yes,Yes,No
+C1898,High,No,No,No,Yes,Negative,Young Puberty,No,Yes,Yes,No,Yes
+C1186,High,No,No,Yes,No,Negative,Adult,No,No,No,Yes,No
+C1784,High,Yes,Yes,Yes,Yes,Negative,Adult,Yes,Yes,Yes,No,Yes
+C1159,Low,Yes,No,Yes,Yes,Negative,Adult,No,Yes,No,No,Yes
+C1559,Medium,No,No,No,No,Negative,Adult,No,Yes,No,No,Yes
+C1339,Low,Yes,Yes,Yes,Yes,Positive,Young Puberty,Yes,No,No,Yes,Yes
+C1997,Low,Yes,Yes,Yes,Yes,Positive,Adult,No,No,Yes,Yes,No
+C1398,High,No,Yes,Yes,Yes,Positive,Adult,No,No,No,No,No
+C1101,Medium,No,No,No,No,Negative,Adult,No,No,Yes,No,Yes
+C1348,High,Yes,No,No,No,Positive,Adult,No,No,No,No,Yes
+C1871,Low,Yes,No,Yes,Yes,Negative,Adult,No,Yes,Yes,Yes,No
+C1999,Low,Yes,No,Yes,Yes,Positive,Adult,No,Yes,Yes,Yes,No
+C1539,High,No,Yes,No,Yes,Negative,Adult,Yes,Yes,Yes,Yes,No
+C1049,Low,Yes,Yes,No,Yes,Positive,Adult,Yes,Yes,Yes,No,Yes
+C1639,Medium,Yes,Yes,Yes,No,Positive,Adult,Yes,Yes,Yes,No,Yes
+C1137,High,Yes,No,No,No,Negative,Adult,No,No,Yes,No,No
+C1926,High,No,No,No,Yes,Positive,Adult,No,Yes,No,Yes,No
+C1192,High,No,Yes,No,Yes,Negative,Adult,Yes,No,No,No,No
+C1595,High,No,No,No,No,Negative,Young Puberty,Yes,No,No,Yes,No
+C1529,High,No,No,Yes,No,Positive,Young Puberty,No,No,Yes,Yes,No
+C1030,Medium,No,No,No,No,Negative,Adult,Yes,No,No,Yes,No
+C1683,Low,Yes,No,No,Yes,Negative,Young Puberty,Yes,Yes,Yes,No,Yes
+C1507,Medium,No,No,Yes,No,Negative,Adult,Yes,No,No,No,No
+C1624,Medium,Yes,No,No,No,Negative,Adult,No,Yes,No,Yes,Yes
+C1420,Low,Yes,Yes,Yes,No,Positive,Adult,No,No,No,No,Yes
+C1364,Medium,Yes,No,No,No,Negative,Young Puberty,Yes,No,Yes,Yes,Yes
+C1847,High,Yes,No,No,No,Negative,Adult,No,Yes,Yes,No,Yes
+C1895,Low,Yes,Yes,No,Yes,Negative,Adult,Yes,No,Yes,No,Yes
+C1244,Low,Yes,No,No,Yes,Positive,Adult,No,No,No,Yes,No
+C1400,High,No,Yes,No,Yes,Negative,Young Puberty,Yes,Yes,No,Yes,Yes
+C1460,Low,Yes,Yes,No,No,Positive,Young Puberty,Yes,Yes,No,No,No
+C1018,Medium,No,No,Yes,Yes,Positive,Young Puberty,Yes,Yes,No,No,Yes
+C1998,Medium,Yes,No,No,No,Positive,Young Puberty,No,Yes,Yes,Yes,Yes
+C1382,Medium,No,Yes,Yes,Yes,Negative,Adult,Yes,No,No,No,Yes
+C1693,Medium,No,Yes,No,Yes,Negative,Adult,No,No,No,No,No
+C1174,High,No,Yes,Yes,Yes,Negative,Adult,Yes,No,No,No,Yes
+C1297,High,Yes,No,No,No,Positive,Young Puberty,Yes,Yes,Yes,Yes,Yes
+C1310,High,No,No,No,Yes,Positive,Adult,Yes,No,Yes,No,No
+C1243,Low,No,No,Yes,Yes,Positive,Adult,Yes,No,Yes,Yes,No
+C1462,Medium,Yes,No,No,No,Positive,Young Puberty,No,No,Yes,No,No
+C1169,Low,Yes,No,Yes,Yes,Negative,Young Puberty,Yes,No,No,Yes,No
+C1429,Low,Yes,Yes,No,Yes,Positive,Adult,Yes,Yes,Yes,Yes,No
+C1442,Medium,Yes,No,Yes,Yes,Positive,Adult,Yes,Yes,No,No,Yes
+C1035,Medium,No,No,No,Yes,Positive,Adult,Yes,Yes,No,Yes,No
+C1491,High,Yes,No,No,Yes,Positive,Adult,Yes,Yes,No,No,No
+C1162,High,No,No,No,Yes,Negative,Adult,Yes,No,No,Yes,Yes
+C1785,Low,Yes,No,Yes,No,Positive,Young Puberty,Yes,No,Yes,No,No
+C1928,Medium,Yes,Yes,Yes,Yes,Positive,Young Puberty,No,Yes,No,No,No
+C1661,Medium,Yes,Yes,No,No,Positive,Young Puberty,No,No,No,No,No
+C1248,High,No,Yes,Yes,Yes,Positive,Adult,Yes,Yes,No,Yes,Yes
+C1185,Medium,No,No,No,No,Negative,Adult,No,No,Yes,No,No
+C1863,Medium,No,No,No,Yes,Negative,Adult,No,No,No,No,No
+C1593,Medium,Yes,No,No,Yes,Positive,Adult,No,Yes,Yes,No,Yes
+C1305,Medium,Yes,Yes,Yes,Yes,Positive,Adult,Yes,Yes,Yes,Yes,Yes
+C1010,Low,Yes,Yes,Yes,No,Negative,Adult,Yes,Yes,Yes,Yes,Yes
+C1807,Low,Yes,No,No,No,Positive,Young Puberty,Yes,No,Yes,Yes,Yes
+C1581,Medium,No,Yes,Yes,Yes,Negative,Adult,Yes,No,Yes,No,Yes
+C1533,Medium,Yes,No,Yes,No,Negative,Adult,Yes,No,No,No,Yes
+C1433,Low,Yes,Yes,Yes,No,Positive,Adult,No,No,No,Yes,No
+C1072,High,No,Yes,No,No,Negative,Young Puberty,No,No,No,Yes,No
+C1635,High,Yes,Yes,No,No,Positive,Adult,Yes,Yes,No,Yes,Yes
+C1747,Medium,Yes,Yes,Yes,Yes,Positive,Adult,No,No,Yes,No,No
+C1957,Low,No,No,No,Yes,Negative,Adult,No,Yes,No,Yes,Yes
+C1914,Low,Yes,No,Yes,Yes,Positive,Young Puberty,Yes,No,No,Yes,Yes
+C1069,Low,No,No,Yes,No,Positive,Young Puberty,No,No,No,No,No
+C1828,Medium,No,Yes,No,No,Positive,Adult,Yes,No,No,No,Yes
+C1013,Medium,No,Yes,Yes,Yes,Negative,Young Puberty,Yes,No,No,Yes,No
+C1941,Medium,Yes,Yes,No,Yes,Negative,Young Puberty,Yes,Yes,No,No,No
+C1214,Medium,Yes,No,No,No,Negative,Adult,No,No,No,Yes,Yes
+C1087,Low,Yes,No,Yes,Yes,Negative,Young Puberty,No,Yes,Yes,No,No
+C1448,Low,Yes,No,Yes,Yes,Positive,Young Puberty,Yes,No,No,No,No
+C1989,Low,No,No,Yes,Yes,Negative,Young Puberty,No,Yes,No,Yes,No
+C1237,Low,No,No,No,Yes,Negative,Young Puberty,Yes,No,Yes,Yes,Yes
+C1908,High,No,Yes,Yes,Yes,Positive,Adult,Yes,Yes,Yes,No,Yes
+C1504,High,No,Yes,Yes,No,Negative,Adult,Yes,Yes,No,Yes,Yes
+C1319,Low,No,Yes,No,No,Negative,Adult,No,No,Yes,No,No
+C1620,High,No,Yes,No,Yes,Negative,Young Puberty,No,Yes,Yes,No,No
+C1204,Medium,Yes,Yes,No,Yes,Negative,Young Puberty,No,Yes,Yes,No,Yes
+C1681,High,Yes,Yes,No,Yes,Negative,Adult,Yes,Yes,Yes,Yes,Yes
+C1416,Low,Yes,No,Yes,Yes,Negative,Young Puberty,No,No,Yes,Yes,No
+C1766,Low,No,No,Yes,Yes,Negative,Young Puberty,Yes,No,No,Yes,Yes
+C1465,Low,No,Yes,No,Yes,Positive,Adult,No,No,No,Yes,Yes
+C1449,Low,Yes,Yes,Yes,Yes,Negative,Young Puberty,Yes,No,No,No,Yes
+C1257,Low,Yes,No,No,Yes,Positive,Adult,No,No,Yes,No,No
+C1314,Medium,No,Yes,Yes,No,Positive,Young Puberty,Yes,Yes,No,No,No
+C1346,High,Yes,No,No,No,Positive,Adult,No,Yes,No,No,Yes
+C1236,Medium,Yes,No,Yes,No,Positive,Young Puberty,No,Yes,Yes,No,No
+C1082,Medium,No,Yes,No,No,Negative,Young Puberty,No,Yes,No,No,Yes
+C1074,Medium,Yes,No,Yes,No,Negative,Young Puberty,Yes,No,Yes,No,Yes
+C1302,High,No,No,Yes,No,Positive,Young Puberty,Yes,No,No,No,Yes
+C1181,Medium,Yes,Yes,Yes,No,Negative,Young Puberty,No,Yes,Yes,No,No
+C1644,Medium,No,Yes,No,No,Negative,Adult,No,No,Yes,No,Yes
+C1356,High,No,Yes,No,No,Negative,Adult,Yes,No,No,No,Yes
+C1114,Low,Yes,Yes,Yes,Yes,Positive,Young Puberty,No,No,No,No,Yes
+C1161,Medium,Yes,No,No,Yes,Negative,Young Puberty,Yes,Yes,No,Yes,Yes
+C1949,Low,No,Yes,Yes,No,Positive,Young Puberty,No,No,Yes,No,Yes
+C1974,High,Yes,No,Yes,No,Positive,Adult,Yes,Yes,No,Yes,Yes
+C1432,Medium,No,No,No,Yes,Negative,Adult,No,No,No,Yes,No
+C1280,Medium,No,Yes,Yes,Yes,Negative,Adult,Yes,Yes,No,Yes,No
+C1110,High,Yes,Yes,No,No,Positive,Young Puberty,No,Yes,Yes,Yes,No
+C1966,Low,No,No,Yes,No,Positive,Adult,Yes,Yes,No,No,No
+C1752,High,Yes,Yes,Yes,No,Positive,Young Puberty,No,No,Yes,Yes,No
+C1832,Low,Yes,Yes,Yes,Yes,Negative,Young Puberty,Yes,No,Yes,No,No
+C1666,High,Yes,Yes,No,Yes,Negative,Young Puberty,Yes,No,Yes,Yes,No
+C1671,Low,Yes,Yes,Yes,Yes,Positive,Young Puberty,Yes,Yes,No,Yes,Yes
+C1327,Medium,No,Yes,Yes,Yes,Positive,Young Puberty,No,Yes,No,Yes,Yes
+C1769,High,No,No,Yes,Yes,Negative,Young Puberty,Yes,No,Yes,No,Yes
+C1976,Medium,No,No,No,No,Negative,Adult,No,Yes,No,Yes,Yes
+C1043,High,Yes,No,No,No,Negative,Young Puberty,Yes,No,Yes,No,Yes
+C1506,Medium,Yes,No,No,Yes,Negative,Young Puberty,No,Yes,No,Yes,Yes
+C1417,High,No,No,Yes,No,Positive,Young Puberty,Yes,No,No,No,Yes
+C1986,High,Yes,Yes,Yes,No,Negative,Young Puberty,Yes,Yes,Yes,Yes,No
+C1845,Low,Yes,Yes,No,Yes,Negative,Adult,No,No,No,No,Yes
+C1821,Low,Yes,No,Yes,No,Positive,Adult,Yes,No,Yes,Yes,No
+C1544,Low,Yes,Yes,Yes,No,Positive,Adult,No,Yes,Yes,No,No
+C1332,Medium,No,No,Yes,No,Positive,Young Puberty,No,Yes,Yes,Yes,Yes
+C1372,High,Yes,No,Yes,No,Negative,Young Puberty,Yes,Yes,No,Yes,Yes
+C1256,Medium,Yes,Yes,Yes,No,Positive,Young Puberty,No,Yes,Yes,No,No
+C1129,High,No,No,Yes,No,Negative,Young Puberty,No,Yes,No,No,Yes
+C1634,Medium,No,No,No,Yes,Positive,Adult,No,Yes,No,No,Yes
+C1023,High,No,No,Yes,Yes,Negative,Adult,No,Yes,No,No,No
+C1870,Medium,No,Yes,Yes,No,Positive,Young Puberty,Yes,Yes,No,Yes,No
+C1879,Low,No,No,No,No,Positive,Adult,Yes,No,No,Yes,Yes
+C1572,High,No,No,No,Yes,Negative,Adult,No,Yes,Yes,Yes,No
+C1740,High,Yes,Yes,Yes,Yes,Positive,Young Puberty,Yes,Yes,No,No,Yes
+C1983,High,Yes,Yes,Yes,No,Positive,Adult,No,No,No,No,Yes
+C1329,High,No,Yes,No,No,Negative,Young Puberty,Yes,Yes,No,No,Yes
+C1054,Low,Yes,No,Yes,No,Negative,Adult,Yes,No,Yes,No,No
+C1562,Medium,Yes,Yes,Yes,Yes,Positive,Young Puberty,Yes,Yes,Yes,No,Yes
+C1567,High,No,No,No,No,Negative,Young Puberty,Yes,No,Yes,No,No
+C1395,Medium,Yes,Yes,No,Yes,Negative,Young Puberty,Yes,Yes,Yes,Yes,Yes
+C1888,Medium,Yes,No,Yes,Yes,Positive,Young Puberty,Yes,No,Yes,No,Yes
+C1739,High,Yes,Yes,No,No,Positive,Young Puberty,No,No,No,Yes,No
+C1728,Low,Yes,No,Yes,Yes,Negative,Adult,Yes,Yes,No,No,No
+C1193,Medium,No,No,Yes,Yes,Positive,Young Puberty,Yes,No,No,Yes,Yes
+C1543,Medium,Yes,Yes,No,No,Negative,Adult,No,No,No,Yes,Yes
+C1626,High,Yes,Yes,No,No,Positive,Adult,Yes,Yes,No,No,No
+C1531,Medium,Yes,No,Yes,No,Positive,Young Puberty,No,Yes,No,No,No
+C1583,Low,Yes,Yes,No,No,Negative,Adult,Yes,Yes,No,No,Yes
+C1738,Medium,No,No,Yes,No,Negative,Adult,Yes,Yes,Yes,Yes,Yes
+C1399,High,Yes,Yes,No,No,Negative,Young Puberty,Yes,No,Yes,No,No
+C1177,Low,No,Yes,No,Yes,Positive,Young Puberty,Yes,Yes,No,No,Yes
+C1211,High,Yes,Yes,Yes,No,Negative,Adult,No,No,Yes,No,Yes
+C1808,Medium,No,Yes,Yes,No,Negative,Young Puberty,Yes,No,No,Yes,No
+C1012,Low,Yes,No,No,Yes,Positive,Adult,No,No,No,Yes,Yes
+C1182,High,No,No,Yes,No,Positive,Adult,No,Yes,Yes,Yes,Yes
+C1623,Low,No,Yes,No,Yes,Positive,Young Puberty,Yes,Yes,No,Yes,No
+C1153,Low,No,No,No,No,Positive,Young Puberty,Yes,No,Yes,No,Yes
+C1482,High,No,No,Yes,Yes,Negative,Adult,No,Yes,Yes,Yes,No
+C1729,Low,Yes,No,Yes,Yes,Positive,Adult,Yes,Yes,Yes,No,No
+C1605,Medium,Yes,No,No,Yes,Negative,Young Puberty,Yes,Yes,No,Yes,No
+C1758,Medium,Yes,No,No,Yes,Positive,Adult,No,Yes,Yes,No,Yes
+C1577,High,Yes,Yes,Yes,Yes,Positive,Adult,Yes,Yes,Yes,No,No
+C1408,Low,Yes,Yes,Yes,No,Negative,Adult,Yes,Yes,No,No,No
+C1913,Medium,No,Yes,Yes,No,Negative,Adult,Yes,Yes,No,No,No
+C1688,Low,No,No,No,Yes,Positive,Adult,Yes,Yes,Yes,No,No
+C1611,Medium,Yes,No,No,Yes,Negative,Young Puberty,Yes,Yes,No,No,Yes
+C1744,Low,Yes,No,No,No,Positive,Young Puberty,Yes,Yes,Yes,No,Yes
+C1154,High,No,Yes,Yes,Yes,Positive,Young Puberty,No,Yes,Yes,Yes,No
+C1601,Low,Yes,Yes,No,Yes,Negative,Young Puberty,No,Yes,Yes,Yes,No
+C1711,Low,No,No,No,Yes,Negative,Young Puberty,No,Yes,Yes,Yes,No
+C1379,High,No,No,Yes,Yes,Negative,Adult,No,No,No,Yes,Yes
+C1397,Low,No,No,No,Yes,Positive,Young Puberty,Yes,Yes,No,Yes,Yes
+C1144,Medium,Yes,Yes,Yes,Yes,Negative,Adult,No,No,Yes,No,Yes
+C1952,Low,No,No,Yes,Yes,Positive,Young Puberty,Yes,Yes,Yes,Yes,No
+C1547,Low,No,Yes,No,No,Negative,Adult,Yes,No,No,Yes,No
+C1484,High,No,No,No,No,Negative,Young Puberty,Yes,Yes,Yes,No,No
+C1722,Medium,Yes,Yes,No,No,Negative,Young Puberty,No,Yes,No,Yes,Yes
+C1099,Low,No,Yes,No,Yes,Negative,Young Puberty,No,No,No,Yes,No
+C1927,Low,No,No,No,Yes,Negative,Young Puberty,No,Yes,No,No,No
+C1409,Medium,No,Yes,No,Yes,Positive,Adult,Yes,Yes,Yes,Yes,No
+C1782,Medium,No,Yes,Yes,Yes,Positive,Adult,Yes,Yes,No,Yes,No
+C1887,High,Yes,No,No,No,Positive,Adult,Yes,Yes,Yes,Yes,No
+C1441,Medium,Yes,Yes,No,Yes,Negative,Young Puberty,Yes,No,Yes,No,Yes
+C1936,Low,No,Yes,Yes,Yes,Negative,Adult,No,No,Yes,Yes,Yes
+C1352,High,No,No,Yes,Yes,Positive,Adult,Yes,Yes,No,No,No
+C1697,High,No,No,No,No,Negative,Young Puberty,No,No,No,No,Yes
+C1721,High,No,No,Yes,No,Positive,Adult,No,No,Yes,No,Yes
+C1126,Medium,Yes,No,Yes,Yes,Negative,Adult,No,Yes,No,Yes,Yes
+C1716,High,No,Yes,Yes,No,Positive,Adult,Yes,Yes,Yes,Yes,No
+C1773,High,No,Yes,Yes,Yes,Negative,Adult,Yes,Yes,Yes,No,Yes
+C1585,Low,No,No,Yes,Yes,Negative,Young Puberty,Yes,Yes,Yes,No,No
